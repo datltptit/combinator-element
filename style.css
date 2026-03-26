@@ -3,3 +3,7 @@
   font-size: 20px;
   font-style: italic;
 }
+h2.demo {
+  font-weight: 200;
+  color: rgb(0, 1, 2);
+}
